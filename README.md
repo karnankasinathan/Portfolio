@@ -260,7 +260,10 @@ Upload to GitHub Pages for free hosting.
 
 ## OUTPUT
 
+<img width="1141" height="768" alt="Screenshot 2026-03-14 194226" src="https://github.com/user-attachments/assets/19f38286-0a30-453b-adf4-b039473da740" />
 
+
+<img width="1156" height="793" alt="Screenshot 2026-03-14 194249" src="https://github.com/user-attachments/assets/df6cdf0e-98f0-4f70-b8ad-809fb8210321" />
 
 
 ## RESULT
